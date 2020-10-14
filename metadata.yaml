@@ -1,5 +1,8 @@
 _repo: To-Your-Kitchen-From-Mine_63457
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63457-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63457#To-Your-Kitchen-From-Mine
 gutenberg_issued: '2020-10-14'
 gutenberg_type: Text
 identifiers:
